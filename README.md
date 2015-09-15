@@ -1,2 +1,3 @@
-# python_plots
+# Python Plots
+
 Creating plots with matplotlib
